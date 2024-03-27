@@ -1,0 +1,41 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\zirko\\Desktop\\Webbutveckling\\c#2\\CountDownBlazor\\CountDownBlazor\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\CountDownBlazor.bundle.scp.css",
+      "PackagePath": "staticwebassets\\CountDownBlazor.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\zirko\\Desktop\\Webbutveckling\\c#2\\CountDownBlazor\\CountDownBlazor\\wwwroot\\app.css",
+      "PackagePath": "staticwebassets\\app.css"
+    },
+    {
+      "Id": "C:\\Users\\zirko\\Desktop\\Webbutveckling\\c#2\\CountDownBlazor\\CountDownBlazor\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\zirko\\Desktop\\Webbutveckling\\c#2\\CountDownBlazor\\CountDownBlazor\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\zirko\\Desktop\\Webbutveckling\\c#2\\CountDownBlazor\\CountDownBlazor\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.CountDownBlazor.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.CountDownBlazor.props",
+      "PackagePath": "build\\CountDownBlazor.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.CountDownBlazor.props",
+      "PackagePath": "buildMultiTargeting\\CountDownBlazor.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.CountDownBlazor.props",
+      "PackagePath": "buildTransitive\\CountDownBlazor.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
